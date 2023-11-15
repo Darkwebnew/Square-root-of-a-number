@@ -1,5 +1,5 @@
-# Find the square root of a number
-
+# 2b. Find the square root of a number
+## Date: 29.08.2023
 ## AIM:
 To write a program to find the square root of a number.
 
